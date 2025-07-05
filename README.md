@@ -1,4 +1,6 @@
 **SereneMind**
+
+
 🌿 SereneMind – Your Mental Wellness Companion
 SereneMind is a mental health and stress management platform built for the Oxibook Hackathon. It helps users log their daily moods, analyze emotional patterns, and maintain a balanced lifestyle. With seamless integration to devices and WhatsApp, SereneMind ensures users stay on track with gentle nudges, personalized recommendations, and engaging activities.
 
