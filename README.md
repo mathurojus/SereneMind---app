@@ -1,58 +1,67 @@
-**SereneMind**
+# 🌿 SereneMind – Your Mental Wellness Companion
 
+**SereneMind** is a mental health and stress management platform developed during the **Ozibook Hackathon 2025**. Designed to support users in nurturing their emotional well-being, SereneMind enables mood tracking, personalized routines, smart scheduling, and much more — all through an intuitive interface and seamless integrations.
 
-🌿 SereneMind – Your Mental Wellness Companion
-SereneMind is a mental health and stress management platform built for the Oxibook Hackathon. It helps users log their daily moods, analyze emotional patterns, and maintain a balanced lifestyle. With seamless integration to devices and WhatsApp, SereneMind ensures users stay on track with gentle nudges, personalized recommendations, and engaging activities.
+🔗 **Live Site**: [SereneMind](https://chic-panda-6336bb.netlify.app)
 
-✨ Features
-✅ 📊 Mood Tracking & Analysis
+---
 
-Log daily emotions to understand patterns over time.
-Visualize trends and receive AI-powered insights.
-✅ 🧘 Daily Exercises & Breathing Techniques
+## ✨ Key Features
 
-Personalized self-care routines to relieve stress and anxiety.
-✅ 📅 Smart Schedule Planner
+### ✅ 📊 Mood Tracking & Emotional Analysis  
+- Log daily moods to identify emotional patterns over time  
+- Visualize trends with intuitive graphs  
+- Receive AI-powered insights and wellness tips  
 
-Plan your day with tasks and wellness breaks for better balance.
-✅ 🎬 Movie & Music Recommendations
+### ✅ 🧘 Guided Exercises & Breathing Techniques  
+- Personalized mindfulness activities  
+- Step-by-step breathing routines to reduce stress and anxiety  
 
-Curated mood-based playlists and movies to uplift spirits.
-✅ 🎮 Stress-busting Mini Games
+### ✅ 📅 Smart Daily Planner  
+- Combine productivity with self-care  
+- Schedule tasks alongside wellness breaks  
 
-Play simple, engaging games to recharge your mind.
-✅ 📲 Device & WhatsApp Integration
+### ✅ 🎬 Mood-Based Media Recommendations  
+- Curated playlists and movies to uplift your mood  
+- Dynamic suggestions based on your emotional state  
 
-Get notifications, reminders, and activity suggestions directly on your smartwatch or WhatsApp.
-✅ 🌙 MoodLight Mode
+### ✅ 🎮 Stress-Busting Mini Games  
+- Simple, engaging mini games designed to relax your mind  
 
-Soothing UI with light and dark themes for a calm user experience.
-🛠️ Tech Stack
-Frontend: Next.js, Tailwind CSS
-Backend: Node.js (or Firebase if applicable)
-Notifications & Integration: WhatsApp API, Device APIs
-Styling: PostCSS, Tailwind
-Version Control: Git & GitHub
-🚀 Getting Started
-Clone the Repository
+### ✅ 📲 Seamless Integration with Devices & WhatsApp  
+- Gentle nudges, reminders, and wellness check-ins  
+- Receive updates directly on smartwatches or WhatsApp  
+
+### ✅ 🌙 MoodLight UI Mode  
+- Calming user interface with light and dark theme options  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology                  |
+|--------------|-----------------------------|
+| **Frontend** | Next.js, Tailwind CSS       |
+| **Backend**  | Node.js / Firebase          |
+| **Styling**  | PostCSS, Tailwind           |
+| **Integrations** | WhatsApp API, Device APIs |
+| **Version Control** | Git, GitHub            |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run SereneMind locally:
+
+```bash
+# Clone the repository
 git clone https://github.com/mathurojus/SereneMind---app
-Install Dependencies
+
+# Navigate into the project directory
+cd SereneMind---app
+
+# Install dependencies
 npm install
-Run the Development Server
+
+# Run the development server
 npm run dev
-Open [(https://chic-panda-6336bb.netlify.app/)] to view the app in your browser.
-
-🏆 Hackathon Submission
-This project was built as part of the Ozibook Hackathon 2025 to promote mental wellness through technology.
-
-🤝 Contributing
-Contributions are welcome!
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -m 'Add feature').
-Push to the branch (git push origin feature/your-feature-name).
-Open a Pull Request.
-📄 License
-This project is made from Bolt Editor.
-
