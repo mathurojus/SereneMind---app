@@ -44,7 +44,7 @@
 | **Frontend** | Next.js, Tailwind CSS       |
 | **Backend**  | Node.js / Firebase          |
 | **Styling**  | PostCSS, Tailwind           |
-| **Integrations** | WhatsApp API, Device APIs |
+| **Integrations** | WhatsApp API, Device Bluetooth |
 | **Version Control** | Git, GitHub            |
 
 ---
